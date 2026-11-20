@@ -1,0 +1,14 @@
+{
+  "latest": 151,
+  "min": 0,
+  "msg": "새 버전이 나왔어요!",
+  "store": {
+    "android": "",
+    "ios": ""
+  },
+  "maint": {
+    "on": false,
+    "msg": ""
+  },
+  "notices": []
+}
