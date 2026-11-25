@@ -10,5 +10,19 @@
     "on": false,
     "msg": ""
   },
-  "notices": []
+  "notices": [
+    {
+      "id": "tester-gift-1",
+      "date": "2026-11-25",
+      "title": "🎁 테스트 감사 선물",
+      "body": "테스트에 참여해 주셔서 고마워요!\n결정 500개와 강화 주문서 5장을 보내 드려요.\n2일 안에 받아 주세요.",
+      "title_en": "🎁 Thanks for testing",
+      "body_en": "Thank you for testing!\nHere are 500 crystals and 5 enhancement scrolls.\nClaim them within 2 days.",
+      "reward": {
+        "crystal": 500,
+        "scroll": 5
+      },
+      "minBuild": 173
+    }
+  ]
 }
